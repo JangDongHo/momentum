@@ -46,6 +46,7 @@ input::placeholder {
   border: 1px solid white;
   margin-bottom: 20px;
   background: none;
+  color: white;
 }
 
 #login-form input::placeholder {
